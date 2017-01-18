@@ -1,0 +1,5 @@
+{
+  "name": "at10dance_v1",
+  "app_id": "",
+  "gulpStartupTasks": ["sass", "watch"]
+}
